@@ -109,7 +109,7 @@ export default function Contact() {
                 />
                 <div className="pl-3">
                   <h5>Phone</h5>
-                  <p>+39 388 658 57 00</p>
+                  <p>+39 *** *** ** **</p>
                 </div>
               </div>
               <div className="d-flex">
