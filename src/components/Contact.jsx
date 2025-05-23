@@ -118,7 +118,7 @@ export default function Contact() {
                   style={{ width: 45, height: 45 }}
                 />
                 <div className="pl-3">
-                  <h5>Opening Hour</h5>
+                  <h5>Opening Hours</h5>
                   <strong>Mon - Fri:</strong>
                   <p className="m-0">9:30 AM - 05:00 PM </p>
                 </div>
